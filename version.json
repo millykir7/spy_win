@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "changelog": "🎉 Первый стабильный релиз!\n\n✅ Основные возможности:\n- Ghost Mode (защита от записи экрана)\n- Встроенный Chrome с AI Studio\n- Распознавание речи (микрофон + системный звук)\n- Горячие клавиши (Ctrl+Enter, Alt+Backspace, Shift+Backspace)\n- Автоматические обновления\n- Скрытие из панели задач",
-  "download_url": "https://github.com/millykir7/spy_win/releases/download/v1.0.0/spy_win_v1.0.0.zip"
+  "version": "1.0.1",
+  "changelog": "🐛 Исправлена ошибка обновления (python313.dll)",
+  "download_url": "https://github.com/millykir7/spy_win/releases/download/v1.0.1/spy_win_v1.0.1.zip"
 }
